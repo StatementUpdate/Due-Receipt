@@ -1,1 +1,2 @@
- Due-Receipt
+Due-Receipt
+Details
